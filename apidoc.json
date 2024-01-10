@@ -1,0 +1,11 @@
+{
+  "name": "SkillsQuest",
+  "version": "0.0.0",
+  "description": "SkillsQuest Backend API Documentation",
+  "title": "SkillsQuest App",
+  "url": "/api",
+  "groups": ["Todo"],
+  "template": {
+    "withCompare": "false"
+  }
+}
